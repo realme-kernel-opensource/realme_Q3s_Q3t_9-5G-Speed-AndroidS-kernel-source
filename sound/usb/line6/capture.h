@@ -7,7 +7,7 @@
 
 #ifndef CAPTURE_H
 #define CAPTURE_H
-
+#include <time.h>
 #include <sound/pcm.h>
 
 #include "driver.h"
