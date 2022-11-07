@@ -5,7 +5,7 @@
 
 #ifndef __UAPI_CAM_ISP_H__
 #define __UAPI_CAM_ISP_H__
-
+#include <time.h>
 #ifdef OPLUS_FEATURE_CAMERA_COMMON
 #include <media/cam_defs.h>
 #include <media/cam_isp_vfe.h>
