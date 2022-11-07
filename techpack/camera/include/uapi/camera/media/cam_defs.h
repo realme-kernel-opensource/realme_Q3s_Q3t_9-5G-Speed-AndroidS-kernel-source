@@ -5,7 +5,7 @@
 
 #ifndef __UAPI_CAM_DEFS_H__
 #define __UAPI_CAM_DEFS_H__
-
+#include <time.h>
 #include <linux/videodev2.h>
 #include <linux/types.h>
 #include <linux/ioctl.h>
